@@ -1,2 +1,2 @@
 # Mnist_demo
-## For Digit Recognition demo
+### For Digit Recognition demo using keras
