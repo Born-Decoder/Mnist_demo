@@ -1,2 +1,2 @@
 # Mnist_demo
-## To Digit recognition demo
+## For Digit Recognition demo
